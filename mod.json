@@ -1,0 +1,9 @@
+{
+    "geode": "4.0.0",
+    "id": "elbichocuperar.autocheckpoint",
+    "name": "Auto Checkpoint on Click",
+    "version": "1.0.0",
+    "developer": "Elbicho",
+    "description": "Coloca un checkpoint automaticamente al hacer click en modo practica.",
+    "supported-platforms": ["windows", "android"]
+}
