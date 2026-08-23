@@ -1,9 +1,8 @@
 {
-    "geode": "4.0.0",
-    "id": "elbichocuperar.autocheckpoint",
-    "name": "Auto Checkpoint on Click",
-    "version": "1.0.0",
-    "developer": "Elbicho",
-    "description": "Coloca un checkpoint automaticamente al hacer click en modo practica.",
-    "supported-platforms": ["windows", "android"]
+  "geode": "4.0.0",
+  "version": "v1.0.0",
+  "id": "elbicho.auto-checkpoint",
+  "name": "Auto Checkpoint",
+  "developer": "ElBicho",
+  "description": "Un mod que añade checkpoints automáticos en práctica."
 }
