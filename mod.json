@@ -1,8 +1,13 @@
 {
-  "geode": "4.0.0",
-  "version": "v1.0.0",
-  "id": "elbicho.auto-checkpoint",
-  "name": "Auto Checkpoint",
-  "developer": "ElBicho",
-  "description": "Un mod que añade checkpoints automáticos en práctica."
+	"geode": "3.0.0-beta.1",
+	"gd": {
+		"win": "2.206",
+		"android": "2.206"
+	},
+	"version": "v1.0.0",
+	"id": "elbicho.auto-checkpoint",
+	"name": "Auto Checkpoint",
+	"developer": "ElBicho",
+	"description": "Mod para auto checkpoint en Geometry Dash.",
+	"dependencies": []
 }
