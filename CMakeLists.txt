@@ -1,7 +1,12 @@
-cmake_minimum_required(VERSION 3.25)
-project(auto-checkpoint CXX)
+cmake_minimum_required(VERSION 3.13)
 
-find_package(Geode REQUIRED)
+set(CMAKE_CXX_STANDARD 20)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
-add_geode_mod(auto-checkpoint)
-target_sources(${GEODE_MOD_NAME} PRIVATE src/main.cpp)
+include(geode.cmake)
+
+
+setup_geode_mod(elbicho.auto-checkpoint)
+
+
+add_subdirectory(src)
